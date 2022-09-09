@@ -11,6 +11,18 @@
       "timeRanges": [
         "7-10"
       ]
+    },
+    {
+      "id": "1",
+      "title": "Good Night",
+      "messages": [
+        "Good night my friend, no matter how busy your work is, remember that health comes first. \uD83D\uDE09\uD83D\uDE09\uD83D\uDE09 \uD83C\uDF40\uD83C\uDF40\uD83C\uDF40",
+        "Good night my friend, life will have hard and hard times, but health is still first, sleep to say hello to a beautiful day. \uD83D\uDE09\uD83D\uDE09\uD83D\uDE09 \uD83C\uDF40\uD83C\uDF40\uD83C\uDF40"
+      ],
+      "languageCode": "en",
+      "timeRanges": [
+        "21-23"
+      ]
     }
   ]
 }
