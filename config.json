@@ -1,0 +1,26 @@
+{
+  "notifications": [
+    {
+      "title": "Good Morning",
+      "messages": [
+        "Have a nice day. \uD83D\uDE09\uD83D\uDE09\uD83D\uDE09 \uD83C\uDF40\uD83C\uDF40\uD83C\uDF40",
+        "Wish you a good day. \uD83D\uDE09\uD83D\uDE09\uD83D\uDE09 \uD83C\uDF40\uD83C\uDF40\uD83C\uDF40"
+      ],
+      "languageCode": "en",
+      "timeRanges": [
+        "7-10"
+      ]
+    },
+    {
+      "title": "Good Morning",
+      "messages": [
+        "Have a nice day. \uD83D\uDE09\uD83D\uDE09\uD83D\uDE09 \uD83C\uDF40\uD83C\uDF40\uD83C\uDF40",
+        "Wish you a good day. \uD83D\uDE09\uD83D\uDE09\uD83D\uDE09 \uD83C\uDF40\uD83C\uDF40\uD83C\uDF40"
+      ],
+      "languageCode": "en",
+      "timeRanges": [
+        "7-10"
+      ]
+    }
+  ]
+}
