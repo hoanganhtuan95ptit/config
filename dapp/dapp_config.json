@@ -1,0 +1,14 @@
+{
+  "dAppHexChainIdOnly": [
+    "https://app.uniswap.org"
+  ],
+  "dAppNotSupportTrust": [
+    "https://bridge.zksync.io",
+    "https://stake.lido.fi"
+  ],
+  "dAppNotSupportPhantom": [
+    "https://bridge.zksync.io"
+  ],
+  "dAppNotSupportMetaMask": [
+  ]
+}
