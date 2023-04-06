@@ -5,7 +5,8 @@
   "dAppNotSupportTrust": [
     "https://bridge.zksync.io",
     "https://stake.lido.fi",
-    "https://app.hashflow.com"
+    "https://app.hashflow.com",
+    "https://app.uniswap.org"
   ],
   "dAppNotSupportPhantom": [
     "https://bridge.zksync.io"
