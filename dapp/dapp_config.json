@@ -6,7 +6,8 @@
     "https://bridge.zksync.io",
     "https://stake.lido.fi",
     "https://app.hashflow.com",
-    "https://app.uniswap.org"
+    "https://app.uniswap.org",
+    "https://raydium.io"
   ],
   "dAppNotSupportPhantom": [
     "https://bridge.zksync.io"
