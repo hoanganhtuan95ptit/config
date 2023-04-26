@@ -4924,7 +4924,7 @@
         "value": "https://swap-zksync.spacefi.io/#/swap"
       },
       {
-        "name": "IS_DEFAULT",
+        "name": "active",
         "value": "true"
       }
     ],
