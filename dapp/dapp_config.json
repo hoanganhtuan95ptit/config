@@ -11,7 +11,8 @@
     "https://space.id"
   ],
   "dAppNotSupportPhantom": [
-    "https://bridge.zksync.io"
+    "https://bridge.zksync.io",
+    "https://space.id"
   ],
   "dAppNotSupportMetaMask": [
   ]
