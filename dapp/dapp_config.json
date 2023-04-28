@@ -7,13 +7,13 @@
     "https://stake.lido.fi",
     "https://app.hashflow.com",
     "https://app.uniswap.org",
-    "https://raydium.io"
+    "https://raydium.io",
+    "https://space.id"
   ],
   "dAppNotSupportPhantom": [
     "https://bridge.zksync.io",
     "https://space.id"
   ],
   "dAppNotSupportMetaMask": [
-    "https://space.id"
   ]
 }
