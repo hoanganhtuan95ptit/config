@@ -8,11 +8,13 @@
     "https://app.hashflow.com",
     "https://app.uniswap.org",
     "https://raydium.io",
-    "https://space.id"
+    "https://space.id",
+    "https://www.orbiter.finance"
   ],
   "dAppNotSupportPhantom": [
     "https://bridge.zksync.io",
-    "https://space.id"
+    "https://space.id",
+    "https://www.orbiter.finance"
   ],
   "dAppNotSupportMetaMask": [
   ]
