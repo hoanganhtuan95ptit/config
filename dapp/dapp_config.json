@@ -11,6 +11,9 @@
     "https://space.id",
     "https://www.orbiter.finance"
   ],
+  "dAppNotSupportKrystal":[
+    "https://space.id"
+  ],
   "dAppNotSupportPhantom": [
     "https://bridge.zksync.io",
     "https://space.id",
