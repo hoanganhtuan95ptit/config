@@ -5523,7 +5523,7 @@
             },
             {
                 "name": "IS_SUPPORT_EIP_1559",
-                "value": "true"
+                "value": "false"
             },
             {
                 "name": "IS_SUPPORT_API_GAS",
