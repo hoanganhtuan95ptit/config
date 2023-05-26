@@ -3186,7 +3186,7 @@
       },
       {
         "name": "IS_DEFAULT",
-        "value": "false"
+        "value": "true"
       },
       {
         "name": "IS_SUPPORT_SWAP",
