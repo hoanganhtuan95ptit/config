@@ -5135,7 +5135,7 @@
         "url": "https://bobascan.com"
       },
       {
-        "name": "Blockscout",
+        "name": "Bobascan",
         "priority": "2147483646",
         "type": "EXPLORER",
         "url": "https://blockexplorer.boba.network"
@@ -7768,7 +7768,7 @@
         "url": "https://andromeda.metis.io/?owner=1088"
       },
       {
-        "name": "blockscout",
+        "name": "MetisScan",
         "priority": "2147483647",
         "type": "EXPLORER",
         "url": "https://andromeda-explorer.metis.io"
