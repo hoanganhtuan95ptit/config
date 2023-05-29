@@ -951,7 +951,7 @@
     ],
     "id": 25,
     "logo": "https://raw.githubusercontent.com/hoanganhtuan95ptit/config/main/chain/cronos.png",
-    "name": "Cronos  Beta",
+    "name": "Cronos",
     "nativeToken": {
       "decimals": 18,
       "name": "Cronos",
@@ -4841,7 +4841,7 @@
     ],
     "id": 250,
     "logo": "https://raw.githubusercontent.com/hoanganhtuan95ptit/config/main/chain/fantom.png",
-    "name": "Fantom Opera",
+    "name": "Fantom",
     "nativeToken": {
       "decimals": 18,
       "name": "Fantom",
@@ -13610,13 +13610,18 @@
     ],
     "id": 8217,
     "logo": "https://raw.githubusercontent.com/hoanganhtuan95ptit/config/main/chain/klaytn.png",
-    "name": "Klaytn  Cypress",
+    "name": "Klaytn",
     "nativeToken": {
       "decimals": 18,
       "name": "KLAY",
       "symbol": "KLAY"
     },
-    "smartContracts": [],
+    "smartContracts": [
+      {
+        "address": "0x864F01c5E46b0712643B956BcA607bF883e0dbC5",
+        "type": "SWAP_CONTRACT"
+      }
+    ],
     "type": "EVM",
     "urls": [
       {
@@ -16560,7 +16565,7 @@
     ],
     "id": 42161,
     "logo": "https://raw.githubusercontent.com/hoanganhtuan95ptit/config/main/chain/arbitrum.png",
-    "name": "Arbitrum One",
+    "name": "Arbitrum",
     "nativeToken": {
       "decimals": 18,
       "name": "Ether",
@@ -16887,7 +16892,7 @@
     ],
     "id": 43114,
     "logo": "https://raw.githubusercontent.com/hoanganhtuan95ptit/config/main/chain/avalanche.png",
-    "name": "Avalanche C-Chain",
+    "name": "Avalanche",
     "nativeToken": {
       "decimals": 18,
       "name": "Avalanche",
