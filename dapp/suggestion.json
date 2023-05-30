@@ -1,1 +1,12 @@
-
+[
+  {
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=https://krystal.app/",
+    "name": "KrystalGo",
+    "url": "https://go.krystal.app/"
+  },
+  {
+    "image": "https://www.google.com/s2/favicons?sz=128&domain=https://kyberswap.com/",
+    "name": "KyberSwap",
+    "url": "https://kyberswap.com/#/swap"
+  }
+]
