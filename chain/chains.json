@@ -5094,7 +5094,7 @@
     "configs": [
       {
         "name": "IS_ACTIVE",
-        "value": "true"
+        "value": "false"
       },
       {
         "name": "IS_DEFAULT",
@@ -7739,7 +7739,7 @@
     "configs": [
       {
         "name": "IS_ACTIVE",
-        "value": "true"
+        "value": "false"
       },
       {
         "name": "IS_DEFAULT",
@@ -7800,7 +7800,7 @@
     "configs": [
       {
         "name": "IS_ACTIVE",
-        "value": "true"
+        "value": "false"
       },
       {
         "name": "IS_DEFAULT",
@@ -16692,7 +16692,7 @@
     "configs": [
       {
         "name": "IS_ACTIVE",
-        "value": "true"
+        "value": "false"
       },
       {
         "name": "IS_DEFAULT",
@@ -22027,7 +22027,7 @@
     "configs": [
       {
         "name": "IS_ACTIVE",
-        "value": "true"
+        "value": "false"
       },
       {
         "name": "IS_DEFAULT",
@@ -22040,7 +22040,7 @@
     ],
     "id": 1666600000,
     "logo": "https://raw.githubusercontent.com/KYRDTeam/chain-config/main/chain/harmony.png",
-    "name": "Harmony  Shard 0",
+    "name": "Harmony",
     "nativeToken": {
       "decimals": 18,
       "name": "ONE",
