@@ -30,6 +30,10 @@
         "value": "true"
       },
       {
+        "name": "IS_SUPPORT_MULTI_SEND",
+        "value": "true"
+      },
+      {
         "name": "IS_SUPPORT_API_SEARCH_TOKEN",
         "value": "true"
       },
@@ -1825,6 +1829,10 @@
       },
       {
         "name": "IS_SUPPORT_API_BALANCE",
+        "value": "true"
+      },
+      {
+        "name": "IS_SUPPORT_MULTI_SEND",
         "value": "true"
       },
       {
