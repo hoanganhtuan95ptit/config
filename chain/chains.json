@@ -30,6 +30,10 @@
         "value": "true"
       },
       {
+        "name": "IS_SUPPORT_MULTI_SEND",
+        "value": "true"
+      },
+      {
         "name": "IS_SUPPORT_API_SEARCH_TOKEN",
         "value": "true"
       },
@@ -466,8 +470,12 @@
   {
     "configs": [
       {
+        "name": "IS_ACTIVE",
+        "value": "false"
+      },
+      {
         "name": "IS_DEFAULT",
-        "value": "true"
+        "value": "false"
       },
       {
         "name": "IS_SUPPORT_SWAP",
@@ -1825,6 +1833,10 @@
       },
       {
         "name": "IS_SUPPORT_API_BALANCE",
+        "value": "true"
+      },
+      {
+        "name": "IS_SUPPORT_MULTI_SEND",
         "value": "true"
       },
       {
