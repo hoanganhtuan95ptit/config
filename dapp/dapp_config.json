@@ -20,6 +20,7 @@
   ],
   "dAppNotSupportPhantom": [
     "https://bridge.zksync.io",
+    "https://app.uniswap.org",
     "https://space.id",
     "https://www.orbiter.finance",
     "https://www.sushi.com",
