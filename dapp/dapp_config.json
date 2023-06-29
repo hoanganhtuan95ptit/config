@@ -10,17 +10,20 @@
     "https://raydium.io",
     "https://space.id",
     "https://www.orbiter.finance",
-    "https://www.sushi.com"
+    "https://www.sushi.com",
+    "https://app.camelot.exchange"
   ],
   "dAppNotSupportKrystal":[
     "https://space.id",
-    "https://www.sushi.com"
+    "https://www.sushi.com",
+    "https://app.camelot.exchange"
   ],
   "dAppNotSupportPhantom": [
     "https://bridge.zksync.io",
     "https://space.id",
     "https://www.orbiter.finance",
-    "https://www.sushi.com"
+    "https://www.sushi.com",
+    "https://app.camelot.exchange"
   ],
   "dAppNotSupportMetaMask": [
   ]
