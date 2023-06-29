@@ -508,7 +508,7 @@
     ],
     "id": 10,
     "logo": "https://raw.githubusercontent.com/KYRDTeam/chain-config/main/chain/optimism.png",
-    "name": "Optimism",
+    "name": "OP Mainnet",
     "nativeToken": {
       "decimals": 18,
       "name": "Ether",
