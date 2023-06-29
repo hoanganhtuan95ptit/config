@@ -9,15 +9,18 @@
     "https://app.uniswap.org",
     "https://raydium.io",
     "https://space.id",
-    "https://www.orbiter.finance"
+    "https://www.orbiter.finance",
+    "https://www.sushi.com"
   ],
   "dAppNotSupportKrystal":[
-    "https://space.id"
+    "https://space.id",
+    "https://www.sushi.com"
   ],
   "dAppNotSupportPhantom": [
     "https://bridge.zksync.io",
     "https://space.id",
-    "https://www.orbiter.finance"
+    "https://www.orbiter.finance",
+    "https://www.sushi.com"
   ],
   "dAppNotSupportMetaMask": [
   ]
