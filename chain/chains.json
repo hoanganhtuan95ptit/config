@@ -17540,7 +17540,7 @@
       }
     ],
     "id": 59140,
-    "logo": "https://raw.githubusercontent.com/KYRDTeam/chain-config/main/chain/unknown.png",
+    "logo": "https://raw.githubusercontent.com/KYRDTeam/chain-config/main/chain/linea-testnet.png",
     "name": "Linea Testnet",
     "nativeToken": {
       "decimals": 18,
