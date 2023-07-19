@@ -17537,6 +17537,10 @@
       {
         "name": "NATIVE_ADDRESS",
         "value": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee"
+      },
+      {
+        "name": "IS_MAIN_NET",
+        "value": "false"
       }
     ],
     "id": 59140,
@@ -17561,6 +17565,78 @@
         "priority": "2147483647",
         "type": "EXPLORER",
         "url": "https://explorer.goerli.linea.build"
+      }
+    ]
+  },
+  {
+    "configs": [
+      {
+        "name": "IS_ACTIVE",
+        "value": "true"
+      },
+      {
+        "name": "IS_DEFAULT",
+        "value": "false"
+      },
+      {
+        "name": "IS_SUPPORT_SWAP",
+        "value": "false"
+      },
+      {
+        "name": "IS_SUPPORT_BRIDGE",
+        "value": "false"
+      },
+      {
+        "name": "IS_SUPPORT_MULTI_SEND",
+        "value": "false"
+      },
+      {
+        "name": "IS_SUPPORT_EIP_1559",
+        "value": "false"
+      },
+      {
+        "name": "IS_SUPPORT_API_GAS",
+        "value": "false"
+      },
+      {
+        "name": "IS_SUPPORT_API_BALANCE",
+        "value": "false"
+      },
+      {
+        "name": "IS_SUPPORT_API_SEARCH_TOKEN",
+        "value": "false"
+      },
+      {
+        "name": "TIME_MONITOR",
+        "value": "2"
+      },
+      {
+        "name": "NATIVE_ADDRESS",
+        "value": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee"
+      }
+    ],
+    "id": 59144,
+    "logo": "https://raw.githubusercontent.com/KYRDTeam/chain-config/main/chain/linea.png",
+    "name": "Linea Mainnet",
+    "nativeToken": {
+      "decimals": 18,
+      "name": "Linea Ether",
+      "symbol": "ETH"
+    },
+    "smartContracts": [],
+    "type": "EVM",
+    "urls": [
+      {
+        "name": "",
+        "priority": "2147483647",
+        "type": "RPC",
+        "url": "https://linea-mainnet.infura.io/v3/6a572fd05da2498c9d4709ab28be80f2"
+      },
+      {
+        "name": "Lineascan",
+        "priority": "2147483646",
+        "type": "EXPLORER",
+        "url": "https://lineascan.build"
       }
     ]
   },
