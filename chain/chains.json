@@ -70,7 +70,7 @@
         "name": "",
         "priority": "2147483647",
         "type": "RPC",
-        "url": "https://api.bitstack.com/v1/wNFxbiJyQsSeLrX8RRCHi7NpRxrlErZk/DjShIqLishPCTB9HiMkPHXjUM9CNM9Na/ETH/mainnet"
+        "url": "https://rpc.ankr.com/eth"
       },
       {
         "name": "",
@@ -94,7 +94,7 @@
         "name": "",
         "priority": "2147483643",
         "type": "RPC",
-        "url": "https://rpc.ankr.com/eth"
+        "url": "https://api.bitstack.com/v1/wNFxbiJyQsSeLrX8RRCHi7NpRxrlErZk/DjShIqLishPCTB9HiMkPHXjUM9CNM9Na/ETH/mainnet"
       },
       {
         "name": "",
