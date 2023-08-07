@@ -17498,7 +17498,7 @@
     "configs": [
       {
         "name": "IS_ACTIVE",
-        "value": "true"
+        "value": "false"
       },
       {
         "name": "IS_DEFAULT",
@@ -17518,7 +17518,7 @@
       },
       {
         "name": "IS_SUPPORT_EIP_1559",
-        "value": "false"
+        "value": "true"
       },
       {
         "name": "IS_SUPPORT_API_GAS",
@@ -17598,7 +17598,7 @@
       },
       {
         "name": "IS_SUPPORT_EIP_1559",
-        "value": "false"
+        "value": "true"
       },
       {
         "name": "IS_SUPPORT_API_GAS",
