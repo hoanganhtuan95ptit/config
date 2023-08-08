@@ -3250,7 +3250,7 @@
         "name": "",
         "priority": "2147483647",
         "type": "RPC",
-        "url": "https://rpc.ankr.com/solana"
+        "url": "https://api.mainnet-beta.solana.com"
       },
       {
         "name": "",
@@ -3262,7 +3262,7 @@
         "name": "",
         "priority": "2147483645",
         "type": "RPC",
-        "url": "https://api.mainnet-beta.solana.com"
+        "url": "https://rpc.ankr.com/solana"
       },
       {
         "name": "",
