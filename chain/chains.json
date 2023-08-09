@@ -22687,5 +22687,80 @@
         "url": "https://v1.aggron.gwscan.com"
       }
     ]
+  },
+  {
+    "id": 8453,
+    "type": "EVM",
+    "name": "Base",
+    "nativeToken": {
+      "name": "Ether",
+      "symbol": "ETH",
+      "decimals": 18
+    },
+    "urls": [
+      {
+        "url": "https://developer-access-mainnet.base.org",
+        "type": "RPC",
+        "priority": 2147483647
+      },
+      {
+        "url": "https://base.blockpi.network/v1/rpc/public",
+        "type": "RPC",
+        "priority": 2147483646
+      },
+      {
+        "url": "https://1rpc.io/base",
+        "type": "RPC",
+        "priority": 2147483645
+      },
+      {
+        "url": "https://base.meowrpc.com",
+        "type": "RPC",
+        "priority": 2147483644
+      },
+      {
+        "url": "https://base-mainnet.public.blastapi.io",
+        "type": "RPC",
+        "priority": 2147483643
+      },
+      {
+        "url": "https://mainnet.base.org",
+        "type": "RPC",
+        "priority": 2147483642
+      }
+    ],
+    "logo": "https://mobile-web3-config-dev.krystal.team/data/chain/base.png",
+    "configs": [],
+    "smartContracts": []
+  },
+  {
+    "id": 5000,
+    "type": "EVM",
+    "name": "Mantle",
+    "nativeToken": {
+      "name": "Mantle",
+      "symbol": "MNT",
+      "decimals": 18
+    },
+    "urls": [
+      {
+        "url": "https://mantle.publicnode.com",
+        "type": "RPC",
+        "priority": 2147483647
+      },
+      {
+        "url": "https://mantle-mainnet.public.blastapi.io",
+        "type": "RPC",
+        "priority": 2147483646
+      },
+      {
+        "url": "https://rpc.mantle.xyz",
+        "type": "RPC",
+        "priority": 2147483645
+      }
+    ],
+    "logo": "https://mobile-web3-config-dev.krystal.team/data/chain/mantle.png",
+    "configs": [],
+    "smartContracts": []
   }
 ]
