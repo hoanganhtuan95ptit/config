@@ -22708,7 +22708,7 @@
                 "priority": 2147483642
             }
         ],
-        "logo": "https://mobile-web3-config-dev.krystal.team/data/chain/base.png",
+        "logo": "https://raw.githubusercontent.com/KYRDTeam/chain-config/main/chain/base.png",
         "configs": [],
         "smartContracts": []
     },
@@ -22738,7 +22738,7 @@
                 "priority": 2147483645
             }
         ],
-        "logo": "https://mobile-web3-config-dev.krystal.team/data/chain/mantle.png",
+        "logo": "https://raw.githubusercontent.com/KYRDTeam/chain-config/main/chain/mantle.png",
         "configs": [],
         "smartContracts": []
     }
