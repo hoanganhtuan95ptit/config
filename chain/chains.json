@@ -22706,6 +22706,12 @@
                 "url": "https://mainnet.base.org",
                 "type": "RPC",
                 "priority": 2147483642
+            },
+            {
+                "name": "Basescan",
+                "priority": "2147483647",
+                "type": "EXPLORER",
+                "url": "https://basescan.org"
             }
         ],
         "logo": "https://raw.githubusercontent.com/KYRDTeam/chain-config/main/chain/base.png",
@@ -22736,6 +22742,12 @@
                 "url": "https://rpc.mantle.xyz",
                 "type": "RPC",
                 "priority": 2147483645
+            },
+            {
+                "name": "Mantlescan",
+                "priority": "2147483647",
+                "type": "EXPLORER",
+                "url": "https://explorer.mantle.xyz"
             }
         ],
         "logo": "https://raw.githubusercontent.com/KYRDTeam/chain-config/main/chain/mantle.png",
