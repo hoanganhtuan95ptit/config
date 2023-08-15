@@ -11,12 +11,14 @@
     "https://space.id",
     "https://www.orbiter.finance",
     "https://www.sushi.com",
-    "https://app.camelot.exchange"
+    "https://app.camelot.exchange",
+    "https://www.baso.finance/swap"
   ],
   "dAppNotSupportKrystal":[
     "https://space.id",
     "https://www.sushi.com",
-    "https://app.camelot.exchange"
+    "https://app.camelot.exchange",
+    "https://www.baso.finance/swap"
   ],
   "dAppNotSupportPhantom": [
     "https://bridge.zksync.io",
@@ -24,7 +26,8 @@
     "https://space.id",
     "https://www.orbiter.finance",
     "https://www.sushi.com",
-    "https://app.camelot.exchange"
+    "https://app.camelot.exchange",
+    "https://www.baso.finance/swap"
   ],
   "dAppNotSupportMetaMask": [
   ]
